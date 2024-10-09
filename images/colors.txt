@@ -1,0 +1,11 @@
+Colors used in the image (HEX):
+Color 1: #29282d
+Color 2: #413c41
+Color 3: #56565d
+Color 4: #598299
+Color 5: #7a7577
+Color 6: #99979a
+Color 7: #ad8d79
+Color 8: #b8b3b2
+Color 9: #d49f5e
+Color 10: #efddc1
